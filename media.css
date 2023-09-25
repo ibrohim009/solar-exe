@@ -1,0 +1,300 @@
+@media only screen and (max-width: 1071px){
+    .dd{
+        text-align: center;
+    }
+    
+    .ff{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 3rem;
+    }
+
+    .f2{
+        text-align: center;
+    }
+
+    .f2 img{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 965px){
+    .p4{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+    }
+
+    .d1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+
+    .p3{
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 840px){
+    .main{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .h1{
+        text-align: center;
+    }
+
+    .part3{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .h3{
+        text-align: center;
+    }
+
+    .part5{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .l3{
+        text-align: center;    
+    }
+}
+
+@media only screen and (max-width: 777px){
+    .f3{
+        display: flex;
+        align-items: center;
+    }
+
+    .f1{
+        margin-right: 100px;
+    }
+
+    .n1{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .hh2 img{
+        max-width: 200px;
+    }
+}
+
+@media only screen and (max-width: 646px){
+    .description h1{
+        font-size: 40px;
+    }
+
+    .description h4{
+        font-size: 30px;
+    }
+
+    .p6 img{
+        width: 450px;
+    }
+}
+
+@media only screen and (max-width: 610px){
+    .f1{
+        margin-right: 140px;
+    }
+
+    .main-p{
+        font-size: 30px;
+    }
+
+    .h2 img{
+        max-width: 450px;
+    }
+}
+
+@media only screen and (max-width: 525px){
+    .description h1{
+        font-size: 30px;
+    }
+
+    .description h4{
+        font-size: 20px;
+    }
+
+    .f4{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-left: 120px;
+    }
+
+    .f5{
+        text-align: center;
+    }
+
+    .main-p{
+        font-size: 20px;
+    }
+
+    .f5 ul{
+        display: none;
+    }
+
+    .f3 ul{
+        padding-left: 50px;
+    }
+
+    .h3{
+        padding-right: 30px;
+    }
+
+    .h3 h4{
+        padding-left: 20px;
+    }
+
+    .f2{
+        width: 450px;
+    }
+
+    .l2 img{
+        max-width: 440px;
+    }
+
+    .n3{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+    }
+
+
+}   
+
+@media only screen and (max-width: 480px){
+    .f6{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .f8{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        padding-left: 80px;
+    }
+
+    .f3 ul{
+        padding-left: 0;
+        padding-left: 20px;
+    }
+
+    .h2 img{
+        max-width: 300px;
+    }
+
+    .n2{
+        text-align: center;
+    }
+} 
+
+@media only screen and (max-width: 460px){
+    .p6 img{
+        width: 300px;
+    } 
+
+    .l2 img{
+        max-width: 300px;
+    }
+
+    .hh2 input{
+        width: 280px;
+    }
+
+    .n2{
+        width: 300px;
+        margin-left: 40px;
+    }
+
+    .f2{
+        width: 380px;
+    }
+
+    footer .container{
+        overflow-y: hidden;
+    }
+
+
+}  
+
+@media only screen and (max-width: 404px){
+    .description h1{
+        font-size: 20px;
+    }
+
+    .description h4{
+        font-size: 20px;
+    }
+
+    .f8 p{
+        padding-right: 50px;
+    }
+
+    .f2{
+        width: 350px;
+    }
+
+    .n2{
+        padding-right: 60px;
+    }
+}  
+
+@media only screen and (max-width: 370px){
+    .f3 ul{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        padding-left: 0;
+        padding-left: 100px;
+    }
+
+    .f4{
+        padding-left: 0;
+        padding-left: 140px;
+    }
+
+    .f2{
+        width: 310px;
+    }
+
+    .n2{
+        padding-right: 100px;
+    }
+
+    .h1 p{
+        text-align: center;
+    }
+
+    .n3{
+        padding-right: 50px;
+    }
+}  
+
+@media only screen and (max-width: 340px){
+    .f8{
+        padding-left: 0;
+        padding-left: 60px;
+    }
+
+    .f2{
+        width: 290px;
+    }
+}
